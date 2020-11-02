@@ -1,0 +1,22 @@
+Part 2 Results:
+
+a:
+LDA: .65
+SVM: .65
+QDA: .3
+Bayes: .42
+KNN: .32
+
+b:
+LDA: .43
+SVM: .45
+QDA: .28
+bayes: .43
+KNN: .61
+
+c:
+LDA: .633
+SVM: .52
+QDA: .42
+Bayes: .53
+KNN: .45
