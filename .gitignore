@@ -21,7 +21,6 @@ cropped_svd.mat
 *.cls
 *.log
 **/Backup Captures
-*.png﻿
 *.tar
 part1/
 part2/
@@ -39,3 +38,4 @@ part2/
 !readme_scatter.png
 !part1_s_values.png
 *.toc
+*.png
