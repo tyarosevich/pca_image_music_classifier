@@ -3,7 +3,7 @@
 
 # Using Principal Component Analysis for Reduced Dimensionality and Classification of Music in Frequency Domain
 
-This project studies applicaitons of the Singular Value Decomposition. Specifically, I used the SVD and Principal Component Analysis to study reduced dimensionality of images of people's faces. I then use the SVD to examine the principal components of music files, and then classify genres and artists with Linear Discriminant Analysis.
+This project studies applicaitons of the Singular Value Decomposition. Specifically, I used the SVD and Principal Component Analysis to study reduced dimensionality of images of people's faces. I then use the SVD to examine the principal components of music files, and then classify genres and artists with Linear Discriminant Analysis.[Here](https://github.com/tyarosevich/pca_image_music_classifier/blob/master/Final%20Presentation%20for%20Github/pca_faces_and_music_classif_pres.pdf) is a presentation on the project, including visualization, methods, and background.
 # Motivation
 
 This project was originally begun to satisfy an assignment in a graduate level course in Data Science and Scientific Computing in the University of Washington's Applied Mathematics program.
