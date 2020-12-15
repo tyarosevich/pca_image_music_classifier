@@ -17,6 +17,7 @@ This project was originally begun to satisfy an assignment in a graduate level c
 
 ![Reduced Rank Faces](rank_compare.png)
 ![Comparison of Principle Orthogonal Modes of Musical Genres](part2_pod_compare.png)
+![Spectrogram of "OH" by the band Plaid](plaid_oh_spec.png)
 
 # Code Example
 ```

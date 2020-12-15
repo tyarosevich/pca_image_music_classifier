@@ -39,3 +39,6 @@ part2/
 !part1_s_values.png
 *.toc
 *.png
+!rank_compare.png
+!part2_pod_compare.png
+!plaid_oh_spec.png
